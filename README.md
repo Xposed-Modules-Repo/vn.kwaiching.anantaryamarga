@@ -11,6 +11,9 @@
 	- 中國工商銀行: 屏蔽Root警告, 屏蔽風險提示, 去除更新
 	- Anti root check, risk warning and anti force update for Industrial and Commercial Bank of China
 
+	- 中國建設銀行: 屏蔽Root警告
+	- Anti root check for China Construction Bank
+
 ## 支持版本: / Support Version:
 
 	國家反詐中心(AntiFraud): V1.1.9
@@ -18,6 +21,9 @@
 	中國農業銀行(Agricultural Bank of China): V6.3.0
 
 	中國工商銀行(Industrial and Commercial Bank of China): V6.1.0.4.5, V6.1.0.4.0, V6.1.0.3.5, V6.1.0.3.0, V6.1.0.2.0, V6.1.0.1.6, V6.1.0.1.5, V6.1.0.1.0, V6.0.1.2.5
+
+	中國建設銀行(China Construction Bank): V5.4.0_780, V5.4.0_779, V5.4.0_778, V5.3.0_776, V5.3.0_775, V5.2.0_774, V5.2.0_773, V5.1.0_772, V5.0.3_770, V5.0.2_769, V5.0.2_768, V5.0.1_767, V5.0.1_765
+
 
 ## 支持版本下載鏈接: / Some supported version of official APP:
 
@@ -53,5 +59,4 @@
 	- Facebook/Twitter: Heung Kwai Ching
 
 	- Instagram/Tumblr: kwaiching
-
-
+	
