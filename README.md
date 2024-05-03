@@ -17,6 +17,9 @@
 	- 電信營業廳: 去除更新
 	- Anti update for CTCC
 
+	- 民生銀行: 屏蔽Root警告, 去除更新
+	- Anti root check and anti force update for China Minsheng Bank
+
 ## 支持版本: / Support Version:
 
 	國家反詐中心(AntiFraud): V1.1.9
@@ -29,31 +32,20 @@
 
 	電信營業廳(CTCC): V8.6.0
 
+	民生銀行(China Minsheng Bank): V5.8
+
 
 ## 支持版本下載鏈接: / Some supported version of official APP:
-
-	-貴族網盤:
-	https://kwaiching.dudujb.com
 
 	-城通網盤:
 	https://u062.com/d/16731109-40183208-4b8931
 	[密碼：9214]
 
-
-	-星耀雲盤:
-	http://www.starsdisk.com/space_kwaiching.html
-
 ## 無間道:
-
-	-貴族網盤:
-	https://kwaiching.dudujb.com/folder_8022.html
 
 	-城通網盤:
 	https://url09.ctfile.com/d/16731109-44727290-9d438d
 	[密碼：9214]
-
-	-星耀雲盤:
-	http://www.starsdisk.com/space_kwaiching_1254.html
 
 ## 聯絡先: / Contacts:
 
@@ -64,4 +56,3 @@
 	- Facebook/Twitter: Heung Kwai Ching
 
 	- Instagram/Tumblr: kwaiching
-	
