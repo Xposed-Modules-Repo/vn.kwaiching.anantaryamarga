@@ -32,7 +32,7 @@
 
 	電信營業廳(CTCC): V8.6.0
 
-	民生銀行(China Minsheng Bank): V5.9 || V5.8
+	民生銀行(China Minsheng Bank): V5.91 || V5.9 || V5.8
 
 
 ## 支持版本下載鏈接: / Some supported version of official APP:
