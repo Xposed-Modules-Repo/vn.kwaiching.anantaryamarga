@@ -24,7 +24,7 @@
 
 	國家反詐中心(AntiFraud): V1.1.9
 
-	中國農業銀行(Agricultural Bank of China): V6.3.0
+	中國農業銀行(Agricultural Bank of China): V7.0.0 || V6.8.0 || V6.7.0 || V6.6.1 || V6.6.0 || V6.3.1 || V6.3.0
 
 	中國工商銀行(Industrial and Commercial Bank of China): V6.1.1.0.0 || V6.1.0.9.2 || V6.1.0.9.1 || V6.1.0.9.0 || V6.1.0.8.0 || V6.1.0.7.2 || V6.1.0.7.1 || V6.1.0.7.0 || V6.1.0.6.0 || V6.1.0.5.0 || V6.1.0.4.5, V6.1.0.4.0, V6.1.0.3.5, V6.1.0.3.0, V6.1.0.2.0, V6.1.0.1.6, V6.1.0.1.5, V6.1.0.1.0, V6.0.1.2.5
 
@@ -32,7 +32,7 @@
 
 	電信營業廳(CTCC): V8.6.0
 
-	民生銀行(China Minsheng Bank): V5.91 || V5.9 || V5.8
+	民生銀行(China Minsheng Bank): V6.11 || V6.1 || V6.03 || V6.02 || V6.01 || V6.0 || V5.92 || V5.91 || V5.9 || V5.8
 
 
 ## 支持版本下載鏈接: / Some supported version of official APP:
